@@ -21,7 +21,7 @@ timezone: Asia/Urumqi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Friday # the main title
 
 tagline: One developer   # it will display as the sub-title
 
