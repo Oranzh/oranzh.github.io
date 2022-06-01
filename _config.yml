@@ -23,7 +23,7 @@ timezone: Asia/Urumqi
 
 title: Friday # the main title
 
-tagline: One developer   # it will display as the sub-title
+tagline: ''    # it will display as the sub-title
 
 description: Personal blog about my work life, there's php, mysql, elasticsearch, fluentd and Laravel so far
 
